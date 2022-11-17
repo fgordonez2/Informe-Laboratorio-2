@@ -17,10 +17,6 @@
 
 ***2. MARCO TEÓRICO***
 
-**2.1 LEY DE VOLTAJE DE KIRCHHOFF**
-
-**2.2 LEY DE CORRIENTES DE KIRCHHOFF** 
-
 ![LVK_LCK](https://user-images.githubusercontent.com/116774906/201530367-cd3467c9-8386-42ea-ab94-4e5a52f1a91f.png)
 
 
@@ -28,46 +24,26 @@
 
 **MATERIAL Y EQUIPO REQUERIDO**
 
-![image](https://user-images.githubusercontent.com/116774906/201530666-0236f4bb-a22f-47d3-9d29-a7831ac43935.png)
+![image](https://user-images.githubusercontent.com/104925648/202581773-2056e8db-75f5-48e0-aa9f-aa335bdc36b9.png)
 
-***3.1 Arme el circuito que se muestra en la figura 1.1 en Tinkercad.***
+***3.1 Arme el circuito que se muestra en la figura 2.1 en Tinkercad.***
 
-![image](https://user-images.githubusercontent.com/116774906/201530802-6a5bcac5-8b2e-43db-816f-cc78275b5c6c.png)
+![image](https://user-images.githubusercontent.com/104925648/202581817-5f94189a-0cb4-4109-b366-08495743d36c.png)
 
 -------Circuito Armado--------
 
-![image](https://user-images.githubusercontent.com/116774906/201530862-f2a0f86b-40ed-45e8-8a7d-56bf751baf0f.png)
-
-***3.2 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.***
-
--------Medicion de voltaje-----
-
-![image](https://user-images.githubusercontent.com/116774906/201531037-82edec35-9878-4018-90e2-b9b9e9678350.png)
-
--------Medicion de corrientes-----
-
-![image](https://user-images.githubusercontent.com/116774906/201531084-71d43fe9-c779-4fad-8bfd-b2b432142f92.png)
-
-***Tabla 1.1 Resultados obtenidos de voltajes y corriente, en cada elemento del circuito.***
-
-![image](https://user-images.githubusercontent.com/116774906/201532194-fc3d64bf-3c55-4480-8436-8ef7e336acbb.png)
-
-------Realizamos un calculo de voltaje y corriente, de cada elemento-------
-
-*-----------Calculo de corriente------------*
-
-![image](https://user-images.githubusercontent.com/116774906/201534089-629af83d-98d0-482f-a548-69cf760ad8c5.png)
-
-![image](https://user-images.githubusercontent.com/116774906/201534121-9ab41902-3473-417a-9c09-a6240f271352.png)
-
-![image](https://user-images.githubusercontent.com/116774906/201534043-957a06f0-214a-4fa5-ad54-e1bc211f5d1b.png)
+![image](https://user-images.githubusercontent.com/104925648/202581840-32452219-6e34-4b2c-8312-feb569298039.png)
 
 
-*----------Calculo de voltaje de cada elemento------------*
+***3.2 Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.***
 
-![image](https://user-images.githubusercontent.com/116774906/201533995-938a2b70-9f1a-4958-9a76-93988eebe75b.png)
+-------Medicion de corriente-----
 
-*----------Completamos la tabla con los calculos realizados---------*
+![image](https://user-images.githubusercontent.com/104925648/202581980-392ffd0c-f6e3-4eeb-b9e5-3af49a432693.png)
+
+
+***Tabla 2.1 Resultados obtenidos de corrientes de malla***
+
 
 ![image](https://user-images.githubusercontent.com/116774906/201534172-c1b8eebd-3628-4cb4-b71b-97a311e4a791.png)
 
