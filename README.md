@@ -4,15 +4,16 @@
 
 **1.1 OBJETIVO GENREAL**
 
-•	Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes, mediante cálculos matemáticos para refutar dichas leyes
+•	Observar de forma anaítica y experimental el comportamiento de la intensidad de corriente suministrada por dos fuentes de voltaje dentro de un circuito eléctrico
+  mediante el análisis de mallas con el uso de las leyes de Kirchoff y la Ley de Ohm, para encontrar los valores que registra cada malla.
 
 **1.2. OBJETIVOS ESPECÍFICOS**
 
-•	Verificar el cumplimiento de las Leyes de Kirchoff con simulaciones y análisis de forma esquematizada.
+•	Determinar el número de mallas que existen en el circuito mixto.
 
-•	Demostrar que a partir de las leyes de LVK y LCK se puede analizar cualquier tipo de circuito.
+•	Verificar la Ley de Mallas con el simulador y mediante cálculos.
 
-•	Relacionar las Leyes de Kirchoff con la Ley de Ohm, demostrando el cumplimiento en la conservación de la energía y la carga
+•	Entender los conceptos básicos de las leyes de Kircchoff y Ley de Ohm.
 
 ***2. MARCO TEÓRICO***
 
