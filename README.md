@@ -11,7 +11,7 @@
 
 •	Determinar el número de mallas que existen en el circuito mixto.
 
-•	Verificar la Ley de Mallas con el simulador y mediante cálculos.
+•	Comparar los cálculos medidos con los calculados y simulados.
 
 •	Entender los conceptos básicos de las leyes de Kircchoff y Ley de Ohm.
 
