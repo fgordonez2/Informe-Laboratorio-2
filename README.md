@@ -2,7 +2,7 @@
 
 ***1. OBJETIVOS***
 
-**1.1 OBJETIVO GENREAL**
+**1.1 OBJETIVO GENERAL**
 
 •	Observar de forma anaítica y experimental el comportamiento de la intensidad de corriente suministrada por dos fuentes de voltaje dentro de un circuito eléctrico
   mediante el análisis de mallas con el uso de las leyes de Kirchoff y la Ley de Ohm, para encontrar los valores que registra cada malla.
