@@ -67,6 +67,15 @@
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+*Se realizó el calculo del porcentaje de error que tuvo las 3 mallas relacionando los valores analíticos, simulados y el experimental*
+
+![image](https://user-images.githubusercontent.com/116774906/202626856-7f2a1e7a-0f72-4d4c-a7d0-bc265e08ebc2.png)
+
+**Error del valor teorico y valor analítico**
+
+![image](https://user-images.githubusercontent.com/116774906/202627376-fa6ac260-2300-4c3d-858e-457b1a357c86.png)
+
+**Error del valor teorico y valor Experimental**
 
 
 # 5. VIDEO
