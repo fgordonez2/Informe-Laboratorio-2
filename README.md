@@ -19,7 +19,7 @@
 
 ![image](https://user-images.githubusercontent.com/104925648/202615078-2b2755f3-baee-4c66-9df8-f62b737df6b2.png)
 
-#3. EXPLICACIÓN DEL PROCEDIMIENTO
+# 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 **MATERIAL Y EQUIPO REQUERIDO**
 
