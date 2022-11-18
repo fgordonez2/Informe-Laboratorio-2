@@ -39,10 +39,13 @@
 
 ![image](https://user-images.githubusercontent.com/104925648/202581980-392ffd0c-f6e3-4eeb-b9e5-3af49a432693.png)
 
+------Tabla 2.1-------
+![image](https://user-images.githubusercontent.com/104925648/202590738-6a120d0e-081b-4cbb-81e3-fd37c27dad02.png)
 
-***Tabla 2.1 Resultados obtenidos de corrientes de malla***
 
-![image](https://user-images.githubusercontent.com/116774906/201534172-c1b8eebd-3628-4cb4-b71b-97a311e4a791.png)
+***Resultados obtenidos***
+
+
 
 ***5. VIDEO***
 
