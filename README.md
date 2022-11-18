@@ -56,7 +56,6 @@
 
 *Link del video en YouTube:*
 
-https://youtu.be/dw2puZay7xA
 
 ***6. CONCLUSIONES***
 
