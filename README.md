@@ -44,7 +44,10 @@
 ![image](https://user-images.githubusercontent.com/104925648/202590738-6a120d0e-081b-4cbb-81e3-fd37c27dad02.png)
 
 
-***Resultados obtenidos de la corriente***
+***3.3 Resultados obtenidos de la corriente***
+
+![image](https://user-images.githubusercontent.com/104925648/202591837-1007a75f-43c6-4718-a558-dcd6d9a66103.png)
+
 
 
 
