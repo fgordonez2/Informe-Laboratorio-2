@@ -38,7 +38,7 @@
 
 -------Medicion de corriente-----
 
-![image](https://user-images.githubusercontent.com/104925648/202581980-392ffd0c-f6e3-4eeb-b9e5-3af49a432693.png)
+![image](https://user-images.githubusercontent.com/116774906/202621434-edc39726-b6b4-4e21-98bf-2de6e584c05f.png)
 
 ------Tabla 2.1-------
 
