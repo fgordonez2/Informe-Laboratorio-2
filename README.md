@@ -85,6 +85,12 @@
 
 ![image](https://user-images.githubusercontent.com/116774906/202629264-5b8bf7bb-bd34-44e4-b429-4589629aa4f8.png)
 
+![image](https://user-images.githubusercontent.com/104925648/202718559-626686a0-b85a-47ea-8dc6-882c9c5c293f.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202718641-9500104f-6abf-48c1-bf26-b5428e588e13.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202718713-b2b075ea-5d09-4ca0-a39b-d18b20dedd27.png)
+
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
