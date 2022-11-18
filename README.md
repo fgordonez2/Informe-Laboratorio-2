@@ -80,7 +80,7 @@
 
 *2.- Se logro identificar que los cálculos analíticos, experimentales y simulados tiene una cierta diferencia en cuanto a su valor nominal, pero esa diferencia no es tanta, con lo cual corroboramos que nuestros cálculos han sido realizados de la mejor manera.*
 
-*3.- Las leyes de Kircchoff y Ohm son de gran importancia y conocer la definición y fórmulas que cada uno establece resulta la manera más fácil de comprender lo que cada uno establece en relación al circuito eléctrico, cabe recalcar que estas leyes se complementan y resulta mas fácil la resolución de los cálculos. *
+*3.- Las leyes de Kircchoff y Ohm son de gran importancia y conocer la definición y fórmulas que cada uno establece resulta la manera más fácil de comprender lo que cada uno establece en relación al circuito eléctrico, cabe recalcar que estas leyes se complementan y resulta mas fácil la resolución de los cálculos.*
 
 # 7. BIBLIOGRAFÍA
 
