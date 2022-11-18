@@ -49,7 +49,22 @@
 
 ![image](https://user-images.githubusercontent.com/104925648/202591837-1007a75f-43c6-4718-a558-dcd6d9a66103.png)
 
-***3.4 Calculo de las 3 mallas***
+***3.4 Medición de forma experimental de las mallas***
+
+**MALLA 1**
+
+![image](https://user-images.githubusercontent.com/116774906/202719121-adc3b4e7-20d8-4fe1-adc6-2d25f872e38c.png)
+
+**MALLA 2**
+
+![image](https://user-images.githubusercontent.com/116774906/202719332-2e537d91-f046-4888-89a7-e8db7456e662.png)
+
+**MALLA 3**
+
+![image](https://user-images.githubusercontent.com/116774906/202719438-592baeea-3ea6-4a96-915a-c724448c0f68.png)
+
+
+***3.5 Calculo de las 3 mallas***
 
 *------------------CALCULO DE CORRIENTE DE CADA MALLA-----------------------*
 
@@ -81,15 +96,9 @@
 ![image](https://user-images.githubusercontent.com/116774906/202628935-49f01e7b-1f51-45ed-a161-45e5307c1bd2.png)
 
 
-***3. Resultados obtenidos de la corriente, obtenido de forma analítica y experimental***
+***3.6 Resultados obtenidos de la corriente, obtenido de forma analítica y experimental***
 
 ![image](https://user-images.githubusercontent.com/116774906/202629264-5b8bf7bb-bd34-44e4-b429-4589629aa4f8.png)
-
-![image](https://user-images.githubusercontent.com/104925648/202718559-626686a0-b85a-47ea-8dc6-882c9c5c293f.png)
-
-![image](https://user-images.githubusercontent.com/104925648/202718641-9500104f-6abf-48c1-bf26-b5428e588e13.png)
-
-![image](https://user-images.githubusercontent.com/104925648/202718713-b2b075ea-5d09-4ca0-a39b-d18b20dedd27.png)
 
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
@@ -110,6 +119,7 @@
 
 *Link del video en YouTube:*
 
+https://youtu.be/sexMnAhl7Ns
 
 # 6. CONCLUSIONES
 
