@@ -72,4 +72,4 @@ https://youtu.be/dw2puZay7xA
 
 -Fernández, J. (s.f). *Ley de Ohm.* Recuperado de. https://www.fisicalab.com/apartado/ley-de-ohm.
 
--Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
+-Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación
