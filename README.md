@@ -1,25 +1,25 @@
 # Informe-Laboratorio2
 
-***1. OBJETIVOS***
+# 1. OBJETIVOS
 
 **1.1 OBJETIVO GENERAL**
 
-•	Observar de forma anaítica y experimental el comportamiento de la intensidad de corriente suministrada por dos fuentes de voltaje dentro de un circuito eléctrico
-  mediante el análisis de mallas con el uso de las leyes de Kirchoff y la Ley de Ohm, para encontrar los valores que registra cada malla.
+*•	Observar de forma anaítica y experimental el comportamiento de la intensidad de corriente suministrada por dos fuentes de voltaje dentro de un circuito eléctrico
+  mediante el análisis de mallas con el uso de las leyes de Kirchoff y la Ley de Ohm, para encontrar los valores que registra cada malla.*
 
 **1.2. OBJETIVOS ESPECÍFICOS**
 
-•	Determinar el número de mallas que existen en el circuito mixto.
+*•	Determinar el número de mallas que existen en el circuito mixto.*
 
-•	Comparar los cálculos análiticos, experimentales y simulados.
+*•	Comparar los cálculos análiticos, experimentales y simulados.*
 
-•	Entender los conceptos básicos de las leyes de Kircchoff y Ley de Ohm.
+*•	Entender los conceptos básicos de las leyes de Kircchoff y Ley de Ohm.*
 
-***2. MARCO TEÓRICO***
+# 2. MARCO TEÓRICO
 
 ![image](https://user-images.githubusercontent.com/104925648/202615078-2b2755f3-baee-4c66-9df8-f62b737df6b2.png)
 
-***3. EXPLICACIÓN DEL PROCEDIMIENTO***
+#3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 **MATERIAL Y EQUIPO REQUERIDO**
 
@@ -38,7 +38,7 @@
 
 -------Medicion de corriente-----
 
-![image](https://user-images.githubusercontent.com/104925648/202618196-15628c71-dc18-4c4c-be04-ac18565f8946.png)
+![image](https://user-images.githubusercontent.com/104925648/202581980-392ffd0c-f6e3-4eeb-b9e5-3af49a432693.png)
 
 ------Tabla 2.1-------
 
@@ -49,26 +49,43 @@
 
 ![image](https://user-images.githubusercontent.com/104925648/202591837-1007a75f-43c6-4718-a558-dcd6d9a66103.png)
 
+*------------------CALCULO DE CORRIENTE DE CADA MALLA-----------------------*
+
+**MALLA 1**
+
+![image](https://user-images.githubusercontent.com/116774906/202616531-141f14fb-6206-4420-aff2-87f44da13667.png)
+
+
+**MALLA 2**
+
+![image](https://user-images.githubusercontent.com/116774906/202616581-fd755ab6-999b-4167-8145-71978ab5549a.png)
+
+
+**MALLA 3**
+
+![image](https://user-images.githubusercontent.com/116774906/202616684-ce267082-d6e0-4188-9c78-31d358921bb3.png)
+
+# 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 
 
-***5. VIDEO***
+# 5. VIDEO
 
 *Link del video en YouTube:*
 
 
-***6. CONCLUSIONES***
+# 6. CONCLUSIONES
 
-*1.- Al realizar el presente informe, se pudo concluir que la Leyes de Kirchhoff de Voltaje y Corriente si se cumplen, realizando sus respectivas mediciones y calculos, los cuales se pueden apreciar en las tablas 1.2 y 1.3.*
+*1.- Analizar cada una de las mallas existentes en el circuito, es importante para hallar los valores de la corriente que pasa por cada malla, cabe recalcar que se llegó a la conclusión de que la corriente en una malla es la misma para todos los elementos que compongan la malla.*
 
-*2.- Las Leyes de Kirchhoff son necesarias y muy importantes a la hora de analizar un circuito eléctrico, ya que se llega casi de manera perfecta al valor medido por instrumentos como el multímetro; mediante cálculos y análisis matemáticos.*
+*2.- Se logro identificar que los cálculos analíticos, experimentales y simulados tiene una cierta diferencia en cuanto a su valor nominal, pero esa diferencia no es tanta, con lo cual corroboramos que nuestros cálculos han sido realizados de la mejor manera.*
 
-*3.- Con ayuda de las Leyes de Kirchhoff se puede resolver circuitos que por la ley de Ohm no son resueltos, entonces se concluye que dichas leyes son dos igualdades que se basan en la conservación de la energía y la carga en los circuitos eléctricos.*
+*3.- Las leyes de Kircchoff y Ohm son de gran importancia y conocer la definición y fórmulas que cada uno establece resulta la manera más fácil de comprender lo que cada uno establece en relación al circuito eléctrico, cabe recalcar que estas leyes se complementan y resulta mas fácil la resolución de los cálculos. *
 
-***7. BIBLIOGRAFÍA***
+# 7. BIBLIOGRAFÍA
 
--Cuadros, I. (2016, 19 de marzo). *LEYES DE KIRCHHOFF.* Recuperado de. https://geekelectronica.com/leyes-de-kirchhoff/
-
--Fernández, J. (s.f). *Ley de Ohm.* Recuperado de. https://www.fisicalab.com/apartado/ley-de-ohm.
+-García, A. (2013, 26 de julio). *Ley de los voltajes de Kirchhoff: Método de Mallas* Recuperado de. https://panamahitek.com/ley-de-los-voltajes-de-kirchhoff-metodo-de-mallas/
 
 -Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación
+
+-*1º Ley de Kirchhoff – Ley de Kirchhoff de la corriente*. (2014, 28 de octubre). Recuperado de. https://ingelibreblog.wordpress.com/2014/02/13/leyes-de-kirchhoff-y-metodo-de-mallas-resolucion-de-circuitos-electricos/
