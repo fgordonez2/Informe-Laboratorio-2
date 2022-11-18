@@ -53,22 +53,42 @@
 
 *------------------CALCULO DE CORRIENTE DE CADA MALLA-----------------------*
 
+![image](https://user-images.githubusercontent.com/104925648/202628428-db15e1fd-32ef-49af-a882-888e4f2d087c.png)
+
 **MALLA 1**
 
 ![image](https://user-images.githubusercontent.com/116774906/202616531-141f14fb-6206-4420-aff2-87f44da13667.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202628480-b2ecab63-72f8-418a-af94-56abda78dc60.png)
 
 
 **MALLA 2**
 
 ![image](https://user-images.githubusercontent.com/116774906/202616581-fd755ab6-999b-4167-8145-71978ab5549a.png)
 
+![image](https://user-images.githubusercontent.com/104925648/202628525-92e779ea-9403-4620-8eec-ecd292f3bca4.png)
 
 **MALLA 3**
 
 ![image](https://user-images.githubusercontent.com/116774906/202616684-ce267082-d6e0-4188-9c78-31d358921bb3.png)
 
+![image](https://user-images.githubusercontent.com/104925648/202628572-41f089be-87ba-446b-b8fa-91b38399f37d.png)
+
+-----------------------**RESOLUCIÓN GENERAL**------------------------------
+
+![image](https://user-images.githubusercontent.com/104925648/202628681-214c612d-73a7-4d66-b90d-3ea42fec1a6b.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202628718-dd698a67-9d94-49e5-aaca-bd5c59b61e04.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202628756-d7dd2533-1755-41d1-9a70-4c7b96c297cc.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202628784-c7b71e99-85c4-4bae-b2df-1f75616285f9.png)
+
+![image](https://user-images.githubusercontent.com/104925648/202628825-93519d99-06aa-460d-a15d-cdf498c1ecfa.png)
+
 ***3. Resultados obtenidos de la corriente, obtenido de forma analítica y experimental***
 
+![image](https://user-images.githubusercontent.com/104925648/202628877-0448659d-bb22-40f8-a94f-b58fde1c6cf3.png)
 
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
