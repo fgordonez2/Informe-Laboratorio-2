@@ -45,9 +45,11 @@
 ![image](https://user-images.githubusercontent.com/104925648/202590738-6a120d0e-081b-4cbb-81e3-fd37c27dad02.png)
 
 
-***3.3 Resultados obtenidos de la corriente***
+***3.3 Resultados obtenidos de la corriente simulados***
 
 ![image](https://user-images.githubusercontent.com/104925648/202591837-1007a75f-43c6-4718-a558-dcd6d9a66103.png)
+
+***3.4 Calculo de las 3 mallas***
 
 *------------------CALCULO DE CORRIENTE DE CADA MALLA-----------------------*
 
@@ -64,6 +66,10 @@
 **MALLA 3**
 
 ![image](https://user-images.githubusercontent.com/116774906/202616684-ce267082-d6e0-4188-9c78-31d358921bb3.png)
+
+***3. Resultados obtenidos de la corriente, obtenido de forma analítica y experimental***
+
+
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
@@ -89,7 +95,7 @@
 
 *2.- Se logro identificar que los cálculos analíticos, experimentales y simulados tiene una cierta diferencia en cuanto a su valor nominal, pero esa diferencia no es tanta, con lo cual corroboramos que nuestros cálculos han sido realizados de la mejor manera.*
 
-*3.- Las leyes de Kircchoff y Ohm son de gran importancia y conocer la definición, fórmulas que cada uno establece resulta la manera más fácil de comprender lo que cada uno establece en relación al circuito eléctrico, cabe recalcar que estas leyes se complementan y resulta mas fácil la resolución de los cálculos.*
+*3.- Las leyes de Kircchoff y Ohm son de gran importancia y conocer la definición y fórmulas que cada uno establece resulta la manera más fácil de comprender lo que cada uno establece en relación al circuito eléctrico, cabe recalcar que estas leyes se complementan y resulta mas fácil la resolución de los cálculos.*
 
 # 7. BIBLIOGRAFÍA
 
